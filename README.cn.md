@@ -4,7 +4,7 @@
 
 Links is a graphics and text mode web browser, released under GPL. Links is a free software. My web browser of choice. Thanks to: Mgr. Mikuláš Patočka, Mgr. Karel Kulhavý (Clock), Mgr. Petr Kulhavý (Brain), Mgr. Martin Pergel (PerM) and all the sponsors to this project.
 
-[![x-cmd/install — LinksWWWbrowser Code Quality Monitoring Repo Card](https://repo.x-cmd.io/LinksWWWbrowser.svg?lang=zh)](https://x-cmd.com/install/LinksWWWbrowser)
+[![x-cmd/install — LinksWWWbrowser Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/LinksWWWbrowser.svg?lang=zh)](https://x-cmd.com/install/LinksWWWbrowser)
 
 ## 安装
 
@@ -42,12 +42,12 @@ x install LinksWWWbrowser
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -58,4 +58,4 @@ LinksWWWbrowser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:06:53Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:23:39Z._
